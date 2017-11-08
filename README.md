@@ -1,6 +1,6 @@
 # ContentAutomation
 Content Automation - Part of JARVIS
 
-Hi Team,
-
-This is an experiment to see how GitHub works!
+2017-11-08 18:45
+- Added code to GIT
+- Templates generated now do not have "_COMMA_", instead replaced with ","
